@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /waitlist/thanks-aeeb9670/
+Disallow: /newsletter/thanks-b3563a7c/
+
+Sitemap: https://im-trs.github.io/botboss/sitemap.xml
